@@ -1,7 +1,8 @@
 1 - Player
 	1.1 - Importando a sprite do player (FEITO)
 	1.2 - Criando o objeto do player (FEITO)
+	1.3 - Movendo o player com o WASD dentro do step (FEITO)
 	
 2 - Ajustando o tamanho da room e sua viewport
-	2.1 - Criando uma viewport e camera do jogo
-	2.2 - Ajustando as dimensões para a view ser grande e o viewport menor
+	2.1 - Criando uma viewport e camera do jogo (FEITO)
+	2.2 - Ajustando as dimensões para a view ser grande e o viewport menor (FEITO) 
