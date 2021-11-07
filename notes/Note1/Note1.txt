@@ -1,2 +1,2 @@
 1 - Player
-	
+	1.1 - Importando a sprite do player (FEITO)
