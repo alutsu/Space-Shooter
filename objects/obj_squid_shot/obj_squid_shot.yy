@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_squid_enemy",
-    "path": "sprites/spr_squid_enemy/spr_squid_enemy.yy",
+    "name": "spr_squid_shot",
+    "path": "sprites/spr_squid_shot/spr_squid_shot.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,7 +22,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +30,7 @@
     "path": "folders/Objects/Enemies/Squid.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_squid_enemy",
+  "name": "obj_squid_shot",
   "tags": [],
   "resourceType": "GMObject",
 }
