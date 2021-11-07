@@ -1,23 +1,10 @@
 /// @description Controle do player
 
-var key_W = keyboard_check(ord("W"))
-var key_A = keyboard_check(ord("A"))
-var key_S = keyboard_check(ord("S"))
-var key_D = keyboard_check(ord("D"))
+var up = keyboard_check(ord("W"))
+var left = keyboard_check(ord("A"))
+var down = keyboard_check(ord("S"))
+var right = keyboard_check(ord("D"))
 
-
-if (key_W) {
-	y -= player_speed
-}
-
-if (key_A) {
-	x -= player_speed
-}
-
-if (key_S) {
-	y += player_speed
-}
-
-if (key_D) {
-	x += player_speed
-}
+// Movendo o player com base no resultado da tecla pressionada
+y += (down - up) * player_speed;
+x += (right - left) * player_speed;
