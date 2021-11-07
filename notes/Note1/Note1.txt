@@ -16,4 +16,8 @@
 	3.5 - Dando um efeito para o tiro
 		3.5.1 - Fazendo ele nascer grande e depois diminuir com o tempo
 	3.6 - Destruir o tiro ao sair da tela
-	
+
+4 - Criando o inimigo
+	4.1 - Importando as sprites (FEITO)
+	4.2 - Criando o objeto (FEITO)
+	4.3 - Fazendo ele ir para baixo (FEITO)
