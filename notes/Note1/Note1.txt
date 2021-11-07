@@ -13,4 +13,7 @@
 	3.2 - Criando o objeto do tiro (FEITO)
 	3.3 - Fazendo o tiro ir para cima (FEITO)
 	3.4 - Fazendo o jogador atirar ao clicar (FEITO)
+	3.5 - Dando um efeito para o tiro
+		3.5.1 - Fazendo ele nascer grande e depois diminuir com o tempo
+	3.6 - Destruir o tiro ao sair da tela
 	
