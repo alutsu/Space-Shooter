@@ -1,4 +1,7 @@
 /// @description Colisão
 
-instance_destroy(obj_squid_enemy.id)
+// DEstruindo inimigo
+instance_destroy(other)
+
+// Destruindo o tiro
 instance_destroy()

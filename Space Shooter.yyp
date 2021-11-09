@@ -5,7 +5,7 @@
     {"id":{"name":"obj_squid_shot","path":"objects/obj_squid_shot/obj_squid_shot.yy",},"order":1,},
     {"id":{"name":"obj_shot_one","path":"objects/obj_shot_one/obj_shot_one.yy",},"order":1,},
     {"id":{"name":"spr_impact","path":"sprites/spr_impact/spr_impact.yy",},"order":0,},
-    {"id":{"name":"obj_enemy_impact","path":"objects/obj_enemy_impact/obj_enemy_impact.yy",},"order":1,},
+    {"id":{"name":"obj_explosion","path":"objects/obj_explosion/obj_explosion.yy",},"order":1,},
     {"id":{"name":"spr_shot_one","path":"sprites/spr_shot_one/spr_shot_one.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_enemy_impact","path":"sprites/spr_enemy_impact/spr_enemy_impact.yy",},"order":1,},

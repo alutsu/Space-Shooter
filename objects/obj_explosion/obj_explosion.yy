@@ -30,7 +30,7 @@
     "path": "folders/Objects/ETC.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_enemy_impact",
+  "name": "obj_explosion",
   "tags": [],
   "resourceType": "GMObject",
 }
