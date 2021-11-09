@@ -36,4 +36,43 @@
 	6.2 - Criar o impacto do tiro do player (FEITO)
 	6.3 - Fazendo o impactor desaparecer no final da animação (FEITO)
 	6.4 - Fazer o tiro não criar o impacto ao sair da room (FEITO)
-	6.5 - 
+
+7 - Fazendo o tiro do inimigo acertar o player e ser destruido
+	7.1 - Destruir o tiro ao acertar o player (FEITO)
+	7.2 - Criar o impacto do tiro do inimigo (FEITO)
+	7.3 - Fazendo o impactor desaparecer no final da animação (FEITO)
+	7.4 - Fazer o tiro não criar o impacto ao sair da room (FEITO)
+	
+8 - Destruindo o inimigo quando levar dano
+	8.1 - Fazer o tiro do player também destruir o inimigo que colidir
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
