@@ -1,2 +1,3 @@
 /// @description Destroying
-instance_destroy(id, false)
+
+instance_destroy()
