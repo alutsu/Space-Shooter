@@ -1,5 +1,5 @@
 /// @description Shooting
 
-instance_create_layer(x,  y + sprite_height/2, "Enemies", obj_squid_shot)
+atirando()
 
-alarm[0] = room_speed * 1.5
+alarm[0] = irandom_range(1, 3) * room_speed;
